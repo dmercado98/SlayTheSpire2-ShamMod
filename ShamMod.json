@@ -2,10 +2,11 @@
   "id": "ShamMod",
   "name": "ShamMod",
   "author": "ShaBoyDaniel",
-  "description": "Slay the Spire 2 mod that adds my cat Shamrock to the claw card and Lucky Tonic potion.",
-  "version": "v0.0.1",
+  "description": "Slay the Spire 2 mod that adds my cat Shamrock to various cards and Lucky Tonic potion.",
+  "version": "v0.1.0",
   "has_pck": true,
   "has_dll": true,
-  "dependencies": ["BaseLib"],
-  "affects_gameplay": false
+  "dependencies": [{"id": "BaseLib","min_version": "3.0.3"}],
+  "affects_gameplay": false,
+  "min_game_version": "0.105.0"
 }

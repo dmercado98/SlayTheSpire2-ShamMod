@@ -60,7 +60,27 @@
     </ItemGroup>
 
     <ItemGroup>
-      <Content Include="images\atlases\card_atlas_0.png" />
+      <Content Include="images\atlases\card_atlas.sprites\defect\chaos.tres" />
+      <Content Include="images\atlases\card_atlas.sprites\defect\claw.tres" />
+      <Content Include="images\atlases\card_atlas.sprites\defect\echo_form.tres" />
+      <Content Include="images\atlases\card_atlas.sprites\defect\glasswork.tres" />
+      <Content Include="images\atlases\card_atlas.sprites\ironclad\armaments.tres" />
+      <Content Include="images\atlases\card_atlas.sprites\ironclad\rage.tres" />
+      <Content Include="images\atlases\card_atlas.sprites\ironclad\stampede.tres" />
+      <Content Include="images\atlases\card_atlas.sprites\necrobinder\bodyguard.tres" />
+      <Content Include="images\atlases\card_atlas.sprites\necrobinder\friendship.tres" />
+      <Content Include="images\atlases\card_atlas.sprites\necrobinder\sic_em.tres" />
+      <Content Include="images\atlases\card_atlas.sprites\regent\bundle_of_joy.tres" />
+      <Content Include="images\atlases\card_atlas.sprites\regent\charge.tres" />
+      <Content Include="images\atlases\card_atlas.sprites\regent\child_of_stars.tres" />
+      <Content Include="images\atlases\card_atlas.sprites\regent\gather_light.tres" />
+      <Content Include="images\atlases\card_atlas.sprites\regent\guards.tres" />
+      <Content Include="images\atlases\card_atlas.sprites\silent\acrobatics.tres" />
+      <Content Include="images\atlases\card_atlas.sprites\silent\escape_plan.tres" />
+      <Content Include="images\atlases\card_atlas.sprites\silent\snakebite.tres" />
+      <Content Include="images\atlases\card_atlas.sprites\token\shiv.tres" />
+      <Content Include="images\atlases\card_atlas.sprites\token\soul.tres" />
+      <Content Include="images\atlases\sham_atlas.png" />
     </ItemGroup>
 
     <Target Name="CheckDependencyPaths">
